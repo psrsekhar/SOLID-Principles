@@ -1,4 +1,4 @@
-# SOLID Principles Concepts
+# SOLID Principles
 
 A comprehensive guide to understanding and applying the **SOLID principles** of object-oriented programming (OOP).  
 These principles form the foundation of **clean, maintainable, and scalable** software design.
