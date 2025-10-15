@@ -59,14 +59,12 @@ By exploring this repository, you will:
 
 ## 📂 Repository Structure
 
-SOLID-Principles/
-│
-├── 01-Single-Responsibility/
-├── 02-Open-Closed/
-├── 03-Liskov-Substitution/
-├── 04-Interface-Segregation/
-├── 05-Dependency-Inversion/
-└── README.md
+- Single-Responsibility/ — Examples demonstrating the Single Responsibility Principle (SRP), showing how each class should have only one reason to change.
+- Open-Closed/ — Illustrates the Open/Closed Principle (OCP), emphasizing how code can be extended without modifying existing components.
+- Liskov-Substitution/ — Explains the Liskov Substitution Principle (LSP), ensuring that subclasses can replace their parent classes without breaking behavior.
+- Interface-Segregation/ — Covers the Interface Segregation Principle (ISP), advocating for smaller, specific interfaces instead of large, general ones.
+- Dependency-Inversion/ — Demonstrates the Dependency Inversion Principle (DIP), focusing on depending on abstractions rather than concrete implementations.
+- README.md — Contains project overview, principles explanation, and learning resources.
 
 
 Each folder includes:
